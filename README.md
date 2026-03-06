@@ -1,2 +1,20 @@
-# pyspark-sales-analysis-dashboard
-Data analysis project using PySpark and Databricks to processsales data and build an interactive dashboard showing customer spending, product trends, and sales insights.
+ # PySpark Sales Analysis Dashboard
+
+This project performs sales analysis using PySpark in Databricks.
+
+## Features
+- Total customer spending
+- Monthly sales trends
+- Yearly sales analysis
+- Top ordered products
+- Customer visit frequency
+- Country-wise sales analysis
+
+## Technologies Used
+- PySpark
+- Databricks
+- Spark SQL
+
+## Dashboard Preview
+
+![Dashboard](sales_dashboard.png)
